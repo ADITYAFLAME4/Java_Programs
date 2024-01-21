@@ -9,12 +9,12 @@ String address="Ashokenagar 102/3";
 float bankBalance = 9806000.67f;
 long phno=918348549937L;
 
-System.out.println(name);
-System.out.println(age);
-System.out.println(gender);
-System.out.println(address);
-System.out.println(bankBalance);
-System.out.println(phno);
+System.out.println("My Friend's name is:" + name);
+System.out.println("His age is:" + age);
+System.out.println("Gender:" + gender);
+System.out.println("Address:" + address);
+System.out.println("Bank Balance:" + bankBalance);
+System.out.println("Phone:" + phno);
 
 }
 }
