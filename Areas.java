@@ -63,7 +63,6 @@ public static void sector()
 	double rad = 6.8;
 	double area = (( rad * rad) * The_ta ) / 2 ;
 	System.out.println("THE AREA OF SECTOR IS:" + area);
-	
 }
 public static void main(String[]args)
 {
