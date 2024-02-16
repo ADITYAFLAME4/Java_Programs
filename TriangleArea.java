@@ -2,7 +2,7 @@ class TriangleArea
 {
 public static double triangle(int base, int height)
 {
-	double area = (1/2)*base*hight;
+	double area = (1/2)*base*height;
 	return area;
 }
 
