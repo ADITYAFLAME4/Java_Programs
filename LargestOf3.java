@@ -10,7 +10,7 @@ class LargestOf3
 
 		//If No number is same!
 		else if(!(a==b) && !(a==c) && !(b==c))
-		{
+		{aa
 			
 			if(a>b && a>c)
 				System.out.println("a is the largest number!");
