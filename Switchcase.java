@@ -1,4 +1,4 @@
-class SwitchCase 
+class Switchcase 
 {
 	public static void main(String[] args) 
 	{
@@ -9,7 +9,7 @@ class SwitchCase
 			case 1: {
 						System.out.println("Monday!");
 					}
-						break;
+					break;
 			
 
 			case 2: {
@@ -24,7 +24,7 @@ class SwitchCase
 
 			case 4: {
 				System.out.println("Thursday!");
-				}
+					}
 					break;
 
 			case 5: {
